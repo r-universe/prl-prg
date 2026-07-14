@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/prl-prg/prl-prg.r-universe.dev
 	branch = HEAD
+[submodule "imputesrcref"]
+	path = imputesrcref
+	url = https://github.com/PRL-PRG/imputesrcref
+[submodule "injectr"]
+	path = injectr
+	url = https://github.com/PRL-PRG/injectr
+[submodule "mutator"]
+	path = mutator
+	url = https://github.com/PRL-PRG/mutator
+[submodule "rcp"]
+	path = rcp
+	url = https://github.com/PRL-PRG/rcp
+	subdir = rcp
+[submodule "sxpdb"]
+	path = sxpdb
+	url = https://github.com/PRL-PRG/sxpdb
