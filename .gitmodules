@@ -11,10 +11,6 @@
 [submodule "mutator"]
 	path = mutator
 	url = https://github.com/PRL-PRG/mutator
-[submodule "rcp"]
-	path = rcp
-	url = https://github.com/PRL-PRG/rcp
-	subdir = rcp
 [submodule "sxpdb"]
 	path = sxpdb
 	url = https://github.com/PRL-PRG/sxpdb
