@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/prl-prg/prl-prg.r-universe.dev
 	branch = HEAD
+[submodule "genthat"]
+	path = genthat
+	url = https://github.com/PRL-PRG/genthat
 [submodule "imputesrcref"]
 	path = imputesrcref
 	url = https://github.com/PRL-PRG/imputesrcref
