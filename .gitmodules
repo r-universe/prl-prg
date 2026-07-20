@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/prl-prg/prl-prg.r-universe.dev
 	branch = HEAD
+[submodule "contractr"]
+	path = contractr
+	url = https://github.com/PRL-PRG/contractr
 [submodule "genthat"]
 	path = genthat
 	url = https://github.com/PRL-PRG/genthat
