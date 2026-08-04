@@ -5,6 +5,9 @@
 [submodule "contractr"]
 	path = contractr
 	url = https://github.com/PRL-PRG/contractr
+[submodule "crbcc"]
+	path = crbcc
+	url = https://github.com/PRL-PRG/crbcc
 [submodule "genthat"]
 	path = genthat
 	url = https://github.com/PRL-PRG/genthat
